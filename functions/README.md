@@ -1,5 +1,3 @@
-<img src="./src/assets/images/marcaLogo.png" alt="Logo" width="100" height="100">
-
 # ToDo App
 
 Proyecto backend de lista de tareas para Atom
@@ -52,7 +50,7 @@ Asegúrate de seguir estos pasos para configurar y usar este proyecto:
 5. Las funciones estarán disponibles en las URL correspondientes mencionadas anteriormente.
 ```bash
 git clone https://github.com/Me-Hernandez2/AtomChallengeBack.git
-cd cd AtomChallengeBack
+cd  AtomChallengeBack
 git checkout develop
 git pull
 npm install
@@ -66,5 +64,6 @@ Este proyecto utiliza las siguientes tecnologías principales:
 - Firebase Functions
 - Firebase Firestore (Base de datos)
 - Express (Para la creación de API)
+- TypeScript (Lenguaje de programación)
 - CORS (Para permitir solicitudes de origen cruzado)
 
